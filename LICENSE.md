@@ -1,4 +1,4 @@
-# 
+# updated liquidity sniper bot | MEV-detection + multi-wallet-support offers the most advanced liquidity sniper bot, with MEV-detection and multi-wallet-support. Ideal for
 
 
 
